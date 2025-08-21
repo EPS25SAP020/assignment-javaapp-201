@@ -1,6 +1,7 @@
 package com.cognizant.javaapp201.mathematics;
 
 public class Division {
+
 	public int divide(byte num1, byte num2) {
 		return 0;
 	}
