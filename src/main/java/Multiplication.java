@@ -9,7 +9,7 @@ public class Multiplication {
 		return 0;
 	}
 	
-	public int multiply(int num1, int num2) {
+	public long multiply(int num1, int num2) {
 		return 0;
 	}
 	
