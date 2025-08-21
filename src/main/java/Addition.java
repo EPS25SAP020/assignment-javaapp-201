@@ -1,0 +1,27 @@
+package com.cognizant.javaapp03.mathematics;
+
+public class Addition {
+	public int add(byte num1, byte num2) {
+		return 0;
+	}
+	
+	public int add(short num1, short num2) {
+		return 0;
+	}
+	
+	public int add(int num1, int num2) {
+		return 0;
+	}
+	
+	public long add(long num1, long num2) {
+		return 0;
+	}
+	
+	public double add(float num1, float num2) {
+		return 0;
+	}
+	
+	public double add(double num1, double num2) {
+		return 0;
+	}
+}
