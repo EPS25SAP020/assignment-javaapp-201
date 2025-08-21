@@ -1,7 +1,7 @@
 package com.cognizant.javaapp201.mathematics;
 
 public class Multiplication {
-	public int multiply(byte num1, byte num2) {
+	public short multiply(byte num1, byte num2) {
 		return 0;
 	}
 	
@@ -9,7 +9,7 @@ public class Multiplication {
 		return 0;
 	}
 	
-	public int multiply(int num1, int num2) {
+	public long multiply(int num1, int num2) {
 		return 0;
 	}
 	
