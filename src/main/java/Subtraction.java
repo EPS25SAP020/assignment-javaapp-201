@@ -1,4 +1,4 @@
-package com.cognizant.javaapp03.mathematics;
+package com.cognizant.javaapp201.mathematics;
 
 public class Subtraction {
 	public int subtract(byte num1, byte num2) {

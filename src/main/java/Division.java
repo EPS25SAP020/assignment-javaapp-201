@@ -1,4 +1,4 @@
-package com.cognizant.javaapp03.mathematics;
+package com.cognizant.javaapp201.mathematics;
 
 public class Division {
 	public int divide(byte num1, byte num2) {

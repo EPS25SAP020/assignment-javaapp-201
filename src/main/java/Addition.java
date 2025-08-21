@@ -1,4 +1,4 @@
-package com.cognizant.javaapp03.mathematics;
+package com.cognizant.javaapp201.mathematics;
 
 public class Addition {
 	public int add(byte num1, byte num2) {
